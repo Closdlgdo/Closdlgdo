@@ -7,3 +7,5 @@
 - 💬 Ask me about how a JSP works or anything related to Real Madrid. 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love to study and learn about new technology.
+
+[![Carlos' GitHub stats](https://github-readme-stats.vercel.app/api?username=Closdlgdo)](https://github.com/anuraghazra/github-readme-stats)
