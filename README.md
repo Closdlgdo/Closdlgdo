@@ -8,4 +8,4 @@
 
 [![Carlos' GitHub stats](https://github-readme-stats.vercel.app/api?username=Closdlgdo&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Closdlgdo)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Closdlgdo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
