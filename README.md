@@ -1,8 +1,8 @@
 ### Hola, I'm Carlos Delgado! 
 
-- 🔭 I’m currently working on my Web Application using JSP.
-- 🌱 I’m currently learning NeoVim and Lua.
-- 🤔 I’m looking for help with proper configuring NeoVim to use as an IDE. 
+- 🔭 I’m currently working on my Web Application using JavaFX.
+- 🌱 I’m currently strengthening my knowledge on Java.
+- 🤔 I’m looking for help with understanding DSA. 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love to study and learn about new technology.
 
