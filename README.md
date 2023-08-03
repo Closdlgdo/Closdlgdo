@@ -1,7 +1,7 @@
 ### Hola, I'm Carlos Delgado! 
 
-- 🔭 I’m currently working on my Web Application using JavaFX.
-- 🌱 I’m currently strengthening my knowledge on Java.
+- 🔭 I’m currently working on my Web Application using basic HTML, CSS and JavaScript.
+- 🌱 I’m currently strengthening my knowledge on JavaScript.
 - 🤔 I’m looking for help with understanding DSA. 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love to study and learn about new technology.
