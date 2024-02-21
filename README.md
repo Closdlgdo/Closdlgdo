@@ -1,6 +1,6 @@
 ### Hola, I'm Carlos Delgado! 
 
-- 🔭 I’m currently working on breaking into Networks/IT as well as AWS/Cloud.
+- 🔭 I’m currently working on breaking into Cybersecurity/Network/IT as well as DJANGO.
 - 🌱 I’m currently strengthening my knowledge of Python 🐍.
 - 🤔 I’m looking for help with understanding DSA. 
 - 😄 Pronouns: He/His
