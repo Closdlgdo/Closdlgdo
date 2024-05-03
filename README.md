@@ -11,3 +11,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Closdlgdo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Closdlgdo&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+![tryhackme stats](https://raw.githubusercontent.com/Closdlgdo/Closdlgdo/master/assets/thm_propic.png)
